@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=Fushra Alpha repo
+Url=https://raw.githubusercontent.com/focus-browser/repo/main/flatpak/alpha/
+Homepage=https://github.com/focus-browser/repo
+Comment=Alpha versions of Fushra's linux applications, use with care!
+Description=Alpha versions of Fushra's linux applications, use with care!
+Icon=https://avatars.githubusercontent.com/u/83148990?s=200&v=4
