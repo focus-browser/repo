@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=Pulse Browser Distrobutions
-Url=https://raw.githubusercontent.com/pulse-browser/repo/main/flatpak/alpha/
+Url=https://raw.githubusercontent.com/pulse-browser/repo/main/flatpak/
 Homepage=https://pulse-browser.app/
 Comment=Official Pulse Browser Flatpak distrobutions
 Description=Official Pulse Browser Flatpak distrobutions
